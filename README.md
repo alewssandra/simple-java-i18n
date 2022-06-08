@@ -1,7 +1,7 @@
 
 # simple-java-i18n
 
-Exemplo do professor **[Fabio](https://github.com/fabiosperotto)** do IFSC - Campus Lages de implementação mínima de internacionalização de projetos em Java com Maven. Seguindo as guidelines de [Java Internationalization Support - Oracle Tech Notes](https://docs.oracle.com/javase/8/docs/technotes/guides/intl/index.html). 
+Exemplo do professor **[Fábio](https://github.com/fabiosperotto)** do IFSC - Campus Lages de implementação mínima de internacionalização de projetos em Java com Maven. Seguindo as guidelines de [Java Internationalization Support - Oracle Tech Notes](https://docs.oracle.com/javase/8/docs/technotes/guides/intl/index.html). 
 
 
 ## Configuração
